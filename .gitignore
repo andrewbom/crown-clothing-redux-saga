@@ -20,8 +20,8 @@
 /client/.env.test.local
 /client/.env.production.local
 
-
 .env
+.vscode
 
 /client/npm-debug.log*
 /client/yarn-debug.log*
