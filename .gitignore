@@ -20,8 +20,9 @@
 /client/.env.test.local
 /client/.env.production.local
 
+.DS_Store
 .env
-.vscode
+/.vscode
 
 /client/npm-debug.log*
 /client/yarn-debug.log*
